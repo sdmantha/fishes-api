@@ -7,7 +7,7 @@ const router = Router();
 router.get("/", (req, res) => {
   res.send("This is the api root!");
 });
-router.use("/houses", fishRoutes);
+router.use("/fishes", fishRoutes);
 
 
 export default router;
