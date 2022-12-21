@@ -12,3 +12,4 @@ router.put("/:id", controllers.updateFish);
 router.delete("/:id", controllers.deleteFish);
 
 export default router;
+

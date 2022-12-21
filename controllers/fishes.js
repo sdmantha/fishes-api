@@ -1,5 +1,7 @@
 import Fish from "../model/Fish.js";
 
+
+
 export const getFishes = async (req, res) => {
   try {
     const fish = await Fish.find();

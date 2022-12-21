@@ -1,7 +1,7 @@
 import db from "../db/connection.js";
 import fishes from './fishes.json' assert{type: 'json'}
 import fish from "../model/Fish.js";
-import mongoose from 'mongoose'
+// import mongoose from 'mongoose'
 
 
 
@@ -28,3 +28,5 @@ const insertData = async () => {
   };
 
   insertData();
+
+  
