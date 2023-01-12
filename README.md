@@ -1,9 +1,11 @@
 # Fishes API
 
-#####repo link
-#####https://github.com/sdmantha/fishes-api.git
-#####fishes api link
-#####https://www.fishwatch.gov/developers
+##### repo link
+##### https://github.com/sdmantha/fishes-api.git/fishes
+##### fishes api link
+##### https://www.fishwatch.gov/developers
+#### railway link
+#### https://fishes-api-production.up.railway.app/fishes
  ---
  I built a JSON API using Mongoose and Express. Additionally, found a dataset online, pull data from it, and use this retrieved data to build my own model and seed my database.
  
