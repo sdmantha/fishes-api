@@ -54,7 +54,7 @@ export const updateFish = async (req, res) => {
 export const deleteFish = async (req, res) => {
   try {
     const { id } = req.params;
-    const deleted = await Character.findByIdAndDelete(id);
+    const deleted = await Fish.findByIdAndDelete(id);
 
     if (deleted) {
       return res.status(200).send("Fishes deleted!");

@@ -9,7 +9,7 @@
  ---
  I built a JSON API using Mongoose and Express. Additionally, found a dataset online, pull data from it, and use this retrieved data to build my own model and seed my database.
  
-####Technical Requirements
+#### Technical Requirements
 
 •Must be built using Express and Mongoose.
 
@@ -23,7 +23,7 @@
 •Have well-documented API routes in your README file.
 
 ----
-####Steps
+#### Steps
 <!-- ![alt text](./How-directory-should-look.png) --><img src="How-directory-should-look.png" alt="How-directory-should-look" width="200"/>
 
 • Create a New folder and download the following
@@ -67,7 +67,7 @@
             •This will hold the function to actually post the information you want onto the online platform in a local host that you create
 <img src="server.js.png" alt="server.js.png"  width="500"/>
 ---
-####Problems to avoid
+#### Problems to avoid
 
 •Make sure you run node on the server.js and index.js to make sure your connection is working and everything is loading.
 
